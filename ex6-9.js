@@ -1,7 +1,8 @@
 function txtchange1() {document.getElementById('txt1').innerHTML= 'ナンバーワン！';}
 
 function imgchange1() {
-  document.getElementById('logo').src = './image/bulbon.jpg';}
+  document.getElementById('logo').src = './image/ikea.jpg';}
+
 
 function show_innerHTMLtxt1(){
 	var result1 = document.getElementById('txt1').innerHTML;
@@ -11,5 +12,5 @@ function show_innerHTML(){ var result = document.getElementById('logo').innerHTM
 
 // do not work
 // function imgchange2() {
-//   document.getElementById('logo').innerHTML = './image/bulbon.jpg';
+//   document.getElementById('logo').innerHTML = './image/ikea.jpg';
 // }
