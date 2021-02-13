@@ -8,7 +8,3 @@ function show_innerHTMLtxt1(){var result1 = document.getElementById('txt1').inne
 
 function show_innerHTMLlogo(){var result= document.getElementById('logo').innerHTML;alert(result);}
 
-// do not work
-// function imgchange2() {
-//   document.getElementById('logo').innerHTML = './image/ikea.jpg';
-// }
